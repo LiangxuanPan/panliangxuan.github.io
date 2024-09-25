@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>PanのBlog</title>
+  <title>Liangxuan Pan&#39;s Blog</title>
   <icon>http://panliangxuan.online/icon.png</icon>
   
   <link href="http://panliangxuan.online/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://panliangxuan.online/</id>
   
   <author>
-    <name>Liangxuan Pan</name>
+    <name>潘良选</name>
     
   </author>
   
