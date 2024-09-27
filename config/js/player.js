@@ -23,8 +23,8 @@ class Musics {
     constructor() {
         this.songs = [{
             id: 1,
-            title: '越权访问-崩坏：星穹铁道 - Hanser',
-            singer: '越权访问-崩坏：星穹铁道 - Hanser',
+            title: '爱你 - By2',
+            singer: '爱你 - By2',
             songUrl: './songs/1.mp3',
             imageUrl: './images/songs/1.webp'
         },
