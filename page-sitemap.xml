@@ -10,6 +10,15 @@
     
     
     <url>
+        <loc>http://panliangxuan.online/music/</loc>
+        <lastmod>2024-09-28T04:12:11.992Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
         <loc>http://panliangxuan.online/movie/</loc>
         <lastmod>2024-09-28T04:10:12.828Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -21,15 +30,6 @@
     <url>
         <loc>http://panliangxuan.online/photo/</loc>
         <lastmod>2024-09-28T04:09:47.695Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://panliangxuan.online/music/</loc>
-        <lastmod>2024-09-28T03:55:53.387Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
