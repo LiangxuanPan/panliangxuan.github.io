@@ -10,17 +10,8 @@
     
     
     <url>
-        <loc>http://panliangxuan.online/album/</loc>
-        <lastmod>2024-09-29T17:30:35.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>http://panliangxuan.online/album/work/</loc>
-        <lastmod>2024-09-29T17:30:32.107Z</lastmod>
+        <lastmod>2024-09-29T17:38:12.460Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -29,7 +20,7 @@
     
     <url>
         <loc>http://panliangxuan.online/album/wallpaper/</loc>
-        <lastmod>2024-09-29T17:21:12.652Z</lastmod>
+        <lastmod>2024-09-29T17:37:53.044Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -38,7 +29,7 @@
     
     <url>
         <loc>http://panliangxuan.online/album/travel/</loc>
-        <lastmod>2024-09-29T17:17:39.459Z</lastmod>
+        <lastmod>2024-09-29T17:37:29.453Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -47,7 +38,16 @@
     
     <url>
         <loc>http://panliangxuan.online/album/life/</loc>
-        <lastmod>2024-09-29T17:14:31.962Z</lastmod>
+        <lastmod>2024-09-29T17:37:17.296Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://panliangxuan.online/album/</loc>
+        <lastmod>2024-09-29T17:30:35.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
